@@ -1,7 +1,7 @@
 {
-  "name": "libnexa-ts",
+  "name": "libexana-ts",
   "version": "1.0.5",
-  "description": "A pure and powerful Nexa SDK library.",
+  "description": "A powerful Exana SDK library.",
   "type": "module",
   "source": "src/index.ts",
   "types": "dist/index.d.ts",
@@ -53,12 +53,15 @@
     "docs": "typedoc"
   },
   "keywords": [
-    "nexa",
-    "blockchain"
+    "exana",
+    "blockchain",
+    "ai",
+    "agents",
+    "exa"
   ],
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/nexa/libnexa-ts"
+    "url": "https://github.com/ExanaNetwork/libexana-ts"
   },
   "author": "vgrunner",
   "license": "MIT",
